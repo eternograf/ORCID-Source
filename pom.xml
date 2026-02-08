@@ -734,7 +734,7 @@ the software.
             <dependency>
                 <groupId>org.ehcache</groupId>
                 <artifactId>ehcache</artifactId>
-                <version>3.5.2</version>
+                <version>3.11.1</version>
             </dependency>
             <dependency>
                 <groupId>javax.cache</groupId>
