@@ -26,7 +26,7 @@ the software.
 
     <properties>
         <spring.version>5.3.26</spring.version>
-        <security.version>5.7.12</security.version>
+        <security.version>5.8.16</security.version>
         <liquibase.version>4.9.1</liquibase.version>
         <jersey.version>2.27</jersey.version>
         <jackson.version>2.13.1</jackson.version>
